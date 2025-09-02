@@ -12,4 +12,5 @@
 #include "src/intro_economia.typ"
 #include "src/oferta_y_demanda.typ"
 #include "src/imperfeccion_mercados.typ"
+#include "src/dinero_e_inflacion.typ"
 
