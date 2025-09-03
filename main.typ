@@ -13,4 +13,4 @@
 #include "src/oferta_y_demanda.typ"
 #include "src/imperfeccion_mercados.typ"
 #include "src/dinero_e_inflacion.typ"
-
+#include "src/contabilidad_1.typ"
