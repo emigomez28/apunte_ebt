@@ -15,3 +15,5 @@
 #include "src/dinero_e_inflacion.typ"
 #include "src/contabilidad_1.typ"
 #include "src/contabilidad_2.typ"
+#include "src/valor_agregado_e_incubacion_y_aceleracion.typ"
+#include "src/cadena_de_valor_y_rentabilidad.typ"
