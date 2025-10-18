@@ -17,3 +17,12 @@
 #include "src/contabilidad_2.typ"
 #include "src/valor_agregado_e_incubacion_y_aceleracion.typ"
 #include "src/cadena_de_valor_y_rentabilidad.typ"
+#include "src/valor_tiempo_del_dinero_1.typ"
+#include "src/valor_tiempo_del_dinero_2.typ"
+#include "src/evaluacion_de_proyectos.typ"
+
+
+
+#include "src/division_charlas.typ"
+#include "src/charla_1.typ"
+#include "src/charla_2.typ"
