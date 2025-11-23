@@ -20,7 +20,8 @@
 #include "src/valor_tiempo_del_dinero_1.typ"
 #include "src/valor_tiempo_del_dinero_2.typ"
 #include "src/evaluacion_de_proyectos.typ"
-
+#include "src/division_legal.typ"
+#include "src/derecho.typ"
 
 
 #include "src/division_charlas.typ"
