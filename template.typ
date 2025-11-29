@@ -29,5 +29,6 @@
   // Main body.
   set par(justify: true)
 
+  set quote(block: true, quotes: true)
   body
 }

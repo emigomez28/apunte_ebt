@@ -23,6 +23,7 @@
 #include "src/division_legal.typ"
 #include "src/derecho.typ"
 #include "src/contratos_y_sociedades.typ"
+#include "src/regimenes_de_promocion.typ"
 
 #include "src/division_charlas.typ"
 #include "src/charla_1.typ"

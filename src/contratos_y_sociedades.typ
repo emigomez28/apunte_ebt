@@ -1,4 +1,3 @@
-#set quote(block: true, quotes: true)
 = Contratos y Sociedades
 
 == Contratos
