@@ -11,4 +11,5 @@
 #include "src/parcial_01_07_24.typ"
 #pagebreak()
 #include "src/parcial_25_06_25.typ"
-
+#pagebreak()
+#include "src/parcial_2024.typ"
